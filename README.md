@@ -24,17 +24,17 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonababu-100&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajit-Beshra&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🔥 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonababu-100&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-Beshra&theme=react-dark)
 
 ---
 
 ## 📈 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonababu-100&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhajit-Beshra&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonababu-100&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonababu-100&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhajit-Beshra&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Subhajit-Beshra&theme=github_dark)
