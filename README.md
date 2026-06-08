@@ -10,7 +10,7 @@
 ## 🛠 Skills
 - Java
 - Data Structures & Algorithms
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React.Js, TailwindCss
 - DBMS & SQL
 - Git & GitHub
 
