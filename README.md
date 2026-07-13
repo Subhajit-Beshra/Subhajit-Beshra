@@ -16,7 +16,7 @@
 ## 🎯 Current Focus
 - DSA with Java
 - Learning Advanced Python & Linux
-- Android Development
+- Working on a new project named "JobBoard"
 - Building projects & GitHub consistency
 
 ---
