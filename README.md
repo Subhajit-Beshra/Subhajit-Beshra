@@ -15,7 +15,7 @@
 
 ## 🎯 Current Focus
 - DSA with Java
-- Learning Advanced Python & Linux
+- Learning Dart & Flutter
 - Working on a new project named "JobBoard"
 - Building projects & GitHub consistency
 
