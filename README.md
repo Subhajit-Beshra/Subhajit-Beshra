@@ -8,7 +8,7 @@
 ## 🛠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,react-native,tailwind,firebase,mysql,git,github,vscode,figma,netlify" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,reactnative,tailwind,firebase,mysql,git,github,vscode,figma,netlify" />
 </p>
 
 ---
