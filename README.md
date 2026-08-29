@@ -1,24 +1,44 @@
-# 💫 About Me:
-🎓 1st Year BCA Student<br>💻 Started coding in Class 11<br>🌱 Currently learning Full-Stack Development & React Native<br>🧠 Interested in Software Development, AI, and Cybersecurity<br>🔨 [...]
+## 👋 About Me
 
+Hi! I'm **Subhajit Beshra**, a first-year **BCA student** and an aspiring **Software Development Engineer** from West Bengal, India.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beshra.subhajit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077[...]
+I'm passionate about **web development, mobile app development, and problem-solving**. I enjoy turning ideas into real-world applications and learning new technologies by building projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [...]
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Subhajit-Beshra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Subhajit-Beshra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Subhajit-Beshra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🚀 What I Do
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💻 Build responsive and interactive web applications
+- 📱 Explore mobile app development with **React Native & Expo**
+- 🔥 Work with **Firebase & Firestore**
+- 🗄️ Learn and work with **MySQL**
+- 🧠 Exploring **AI, Machine Learning & Computer Vision**
+- 🛠️ Practice programming with **Java & Python**
+- 📚 Currently improving my **Data Structures & Algorithms** and software development skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhajit-Beshra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧰 Tech Stack
 
----
-[![](https://komarev.com/ghpvc/?username=Subhajit-Beshra&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frontend:**  
+HTML • CSS • JavaScript • React.js • Tailwind CSS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Mobile:**  
+React Native • Expo
+
+**Backend & Database:**  
+Node.js • Express.js • Firebase • Firestore • MySQL
+
+**Languages:**  
+Java • Python • JavaScript
+
+**Tools:**  
+Git • GitHub • VS Code • Android Studio
+
+### 🌱 Currently Learning
+
+I'm currently focused on becoming a stronger developer by improving my **DSA, backend development, system understanding, and project-building skills**.
+
+I believe the best way to learn programming is to **build things, break things, fix them, and keep improving.**
+
+### 🎯 My Goal
+
+My long-term goal is to become a skilled **Software Development Engineer**, work on challenging real-world problems, and build products that are genuinely useful to people.
+
+> **"Don't just learn technology. Build something with it."** 🚀
